@@ -1,33 +1,32 @@
 .centered {
-    text-align: center;
+  text-align: center;
 }
 
 .t {
-    color: #EEEBD3;
-    background: #255957;
+  color: #EEEBD3;
+  background: #255957;
 }
 
 img {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .btn {
-    background: #70F8BA;
-    color: #57467B;
-    border: 0;
-    padding: 10px 20px;
-    cursor: pointer;
-    border-radius: 50%;
+  background: #70F8BA;
+  color: #57467B;
+  border: 0;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 50%;
 }
 
 body {
-    background: #F9C846;
+  background: #F9C846;
 }
-
 img {
-    display: block;
-    margin: 0 auto;
-    max-width: 400px;
-    width: 100%;
+  display: block;
+  margin: 0 auto;
+  max-width: 400px;
+  width: 100%;
 }
